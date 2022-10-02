@@ -35,3 +35,4 @@ fill(128 + sin(frameCount*0.1) * 128);
 textSize(12 + (mouseX / width)*72);
 text("edu", 650, 90)
   }
+//https://creative-coding.decontextualize.com/text-and-type/
