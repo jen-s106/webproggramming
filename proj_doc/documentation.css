@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 35px;
+}
+button{
+    background-color: lightgray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+
+    border-radius: 5px;
+    height: 40px;
+}
+img{
+    width: 600px;
+    height: 500px;
+}
+h1{
+    text-align: center;
+}

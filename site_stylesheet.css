@@ -2,6 +2,7 @@ body{
   background-color: #9DBF9E;
   margin: auto;
   margin-left: 20px;
+  padding-bottom: 35px;
 }
 
 ul {
@@ -42,4 +43,14 @@ p {
   margin-bottom: 30px;
   margin-right: 70px;
   margin-left: 70px;
+}
+button{
+  background-color: lightgray;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-radius: 5px;
+  height: 50px;
+  font-size: large;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 500px;
 }
