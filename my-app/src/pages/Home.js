@@ -1,19 +1,20 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import stylesheet from './App.css';
 import Carousel from 'react-bootstrap/Carousel';
 import firstimg from './imgCarousel/forest.jpg';
 import secondimg from './imgCarousel/giantpanda.jpg';
 import thirdimg from './imgCarousel/mundurukupeople.jpg';
-
-
-function IndividualIntervalsExample() {
-  return (
+export default function Home(){
+    return(    
+     <div className={stylesheet}>  
     <Carousel>
       <Carousel.Item interval={1000}>
         <img
+          className="d-block w-100"
           src={firstimg}
           alt="First"
-          style={{height: 400, width: 800}}
+          style={{height: 500, width: 500}}
         />
         <Carousel.Caption>
           <h3>Amazon Rainforest</h3>
@@ -33,6 +34,7 @@ function IndividualIntervalsExample() {
           className="d-block w-100"
           src={secondimg}
           alt="Second slide"
+          style={{height: 500, width: 500}}
         />
         <Carousel.Caption>
           <h3>Giant Panda</h3>
@@ -56,6 +58,7 @@ function IndividualIntervalsExample() {
           className="d-block w-100"
           src={thirdimg}
           alt="Third slide"
+          style={{height: 500, width: 500}}
         />
         <Carousel.Caption>
           <h3>Munduruku people</h3>
@@ -74,7 +77,7 @@ function IndividualIntervalsExample() {
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+    </div>
+
   );
 }
-
-export default IndividualIntervalsExample;
