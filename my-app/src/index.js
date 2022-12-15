@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import {BrowserRouter} from "react-router-dom"
 //helps manage router in all of app
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

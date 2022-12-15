@@ -1,0 +1,49 @@
+.inpeopleApp{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.baka_img{
+    flex-basis: 150%;
+}
+
+.baka_img img{
+    max-width: 150%
+}
+
+.inpeopleTitle{
+    margin: 2px;
+}  
+
+
+.bakatxt{
+    color: white;
+    margin: 50px;
+    margin-left: 90px;    
+    font-size: 20px;    
+}
+
+.xikrinApp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.xikrin_img{
+    flex-basis: 40%
+}
+
+.xikrin_img img {
+    max-width: 100%
+}
+
+.xikrin_txt{
+    margin: 50px;
+    color: white;
+    font-size: 20px;    
+}

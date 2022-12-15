@@ -1,3 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Jost:wght@700&display=swap');
+
 body {
   background-color: #779E5F;
+  margin-bottom: 120px;
 }
+
+/*Our Mission statement*/
+.missionst h2{
+  margin-top: 80px;
+  margin-bottom: 30px;
+  font-family: 'Jost', sans-serif;
+  font-size: 40px;
+}
+.missionst p{
+  color: white;
+  margin: 2px;
+  font-size: 30px;
+  font-family: 'Itim', cursive;
+}
+/*formation of registration text and button*/
+.form{
+  text-align: center;
+  margin-top: 80px;
+  font-family: 'Itim', cursive;
+}
+.form p{
+  margin:2px;
+  font-size: 25px;
+}
+
+.form button{
+  margin:20px;
+  background-color: rgb(163, 151, 151);
+  border-radius: 20px;
+  font-size: 35px;
+  padding: 15px 32px;
+  font-family: 'Itim', cursive; 
+}
+.form button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+

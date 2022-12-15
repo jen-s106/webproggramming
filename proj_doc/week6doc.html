@@ -29,27 +29,119 @@
         <br>
         <br>
         Once the NavBar was working, I noticed that not all my 
-        pages where the color that I wanted as seen in Protoype.
-        I am wanting to make a Div that connects all the code 
-        but when I compiled, the color that I wanted the site to
-        have would not appear.
+        pages where the color that I wanted as seen in the protoype.
+        I started by making a Div that connects all the code 
+        but when I compiled, the background color would not appear.
         <br>
         To solve this problem. I went on 
         <a href="https://stackoverflow.com/questions/42464888/how-do-i-change-the-background-color-of-the-body">stackoverflow</a>
-        and found that I have to improt it in the file giving
-        it a name. Then for it to appear, I have to add it
-        in a line of code within a div along with curly brackets.
+        and found that I have to import the the css file by giving
+        the file a name. Then for it to appear, I have to add it
+        in a line of code, within a div, with curly brackets.
         <br>
     </p>
         <h3>Home page construction:</h3>
-    <ol style="font-size: 20px;">
+    <ol>
     <li>
       There is the addition of the Carosuel code as mentioned in week 4. 
     </li> 
     <li>
         Beginning of how to code the Satistics into the page. Would be using
         <a href="https://canvasjs.com/react-charts/chart-index-data-label/">Canvas.js</a>
+        I had trouble figuring how to implement this. Would add if there
+        is time left.
     </li>
-    </ol>   
+    <li>
+        Mission statement:
+        used h2 and p tag in js file along with giving it a 
+        class of its own to manipulate font size and font family.
+    </li>
+    <li>
+        Adding Registration Form:
+        <br>
+        Was able to make the form into a popup window with a close button
+        <a href="https://www.youtube.com/watch?v=i8fAO_zyFAM&t=784s">Reference Code</a>
+    </li>
+    </ol> 
+    <h3>Endangered Animals page</h3>
+    <ol>
+        <li>
+            As shown in protoype, I would implement a searchbar using the
+            <a href="https://www.youtube.com/watch?v=x7niho285qs&t=689s">Searchbar Code</a>
+            <br>
+            <br>
+            Part of creating the Searchbar I wanted to add icons,
+            mui icons. This process took forever bc I was downloading the
+            wrong package
+            <br>
+            <br>
+            <img src="media/install_mui.jpg" style="width: 800px;">
+            <br>
+            <br>
+            This is the correct package need
+            <br>
+            <br>
+            <img src="media/correct_install_mui.jpg" style="width: 800px;">
+            <br>
+            <br>
+            The search bar would use data I found online from <a href="https://www.worldwildlife.org/species/directory?direction=desc&page=2&sort=extinction_status">WWF Species List</a>
+            The data is not a json file so I will need to convert it to an excel sheet:
+            <br>
+            <br>
+            <img src="media/sheets.jpg" style="width: 800px;">
+            <br>
+            <br>
+            Convert to json file by using<a href="https://beautifytools.com/excel-to-json-converter.php">Beautify Tools</a>
+            <br>
+            <br>
+            <img src="media/json.jpg" style="width:800px;">           
+        </li>
+    </ol>
+    <h3>Charities</h3>
+    <ol>
+        <li>
+            Started by making an excel sheet that would have about 
+            10 charities. In this sheet, there will be columns for 
+            charity_name, phone, address, and their website link. Finally
+            it will be converted to a json file.
+            <br>
+            <br>
+            <img src="media/charties_json.jpg">
+        </li>
+        <li>
+            A problem that I faced was how the information from json file was not showing on 
+            the card. Card is placed using React-Bootstrap.
+            <br>
+            <br>
+            <img src = 'media/charties_json.jpg'>
+        </li>
+        <li>
+            I also followed a 
+            <a href="https://www.youtube.com/watch?v=IhWFs0diAPE&t=325s"> 
+                YouTube tutorial</a>
+            demonstrating how to render info dynamic.
+            <br>
+            Upon using this tutorial, I noticed that I would need to 
+            input my json file internally into my js file. This wasn't 
+            a problem, for I just needed to copy and paste what I had.   
+        </li>
+    </ol>
+    <h3>Indigenous People Page </h3> 
+    <ol>
+        <li>
+            For this page I would like to input information
+            of 2 tribes.
+        </li>
+    </ol>
+    <h3>Final Thoughts:</h3>
+    <p>
+        I would say that my project is very neat and organized.
+        This is my first react app that I worked on by myself.
+        Learning how to code in react was difficult for me but I 
+        managed to put a finish project together.
+        <br>
+        <br>
+        </p>
+        <center><h3>Project is running on localhost!</h3></center>
     </body>  
 </html>

@@ -5,9 +5,14 @@ import Carousel from 'react-bootstrap/Carousel';
 import firstimg from './imgCarousel/forest.jpg';
 import secondimg from './imgCarousel/giantpanda.jpg';
 import thirdimg from './imgCarousel/mundurukupeople.jpg';
+import Popup from "./Popup";
+import './Popup.css'
+import {useState} from 'react';
+
 export default function Home(){
-    return(    
-     <div className={stylesheet}>  
+    const [buttonPopup, setButtonPopup] = useState(false);
+    return( 
+    <div className={stylesheet}>  
     <Carousel>
       <Carousel.Item interval={1000}>
         <img
@@ -61,8 +66,8 @@ export default function Home(){
           style={{height: 500, width: 500}}
         />
         <Carousel.Caption>
-          <h3>Munduruku people</h3>
-          <p>
+          <h3 style={{color:"black"}}>Munduruku people</h3>
+          <p style={{color:"black", fontWeight: "bold"}}>
             These indigenous people are located in Brazil and 
             have been victim to their land being destroyed by deforestation
             which is caused by mining and fires. The major
@@ -77,7 +82,39 @@ export default function Home(){
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+    <div className='missionst'>
+    <h2>Our Mission</h2>
+    <p>With this site, we wish to bring awareness to deforestation
+    which is an issue that effects individuals from all over the globe.
+     Animals and Indigenous people are at risk and it is
+    up to us to help fight the cause.</p> 
+    <p>Please be sure to donate to charities!</p>
     </div>
 
+    <div className='form'>
+      <p>Be updated on issues regarding deforestation</p>
+      <p>such as learning about more resources, present news</p>
+      <p>and volunteer work to participate in. </p>
+    
+      <button onClick={()=> setButtonPopup (true)}>Registration Form</button>  
+    
+      <Popup trigger ={buttonPopup} setTrigger = {setButtonPopup}>
+         <div className='txtPopup'>       
+        <h2 style={{color: "white"}}>Registration Form</h2>
+        
+          <p>First Name:</p>
+          <input type= "text"/>
+          <p>Last Name:</p>
+          <input type= "text"/>
+          <p>Email Address:</p>
+          <input type= "text"/>
+        </div>
+      </Popup>
+
+      <p style={{color:"white"}}>This is a FREE newsletter</p>     
+    </div>
+
+
+    </div>
   );
 }

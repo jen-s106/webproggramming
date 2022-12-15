@@ -1,0 +1,402 @@
+[
+        {
+            "name": "African Forest Elephant",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/african-forest-elephant"
+        },
+        {
+            "name": "African Savanna Elephant ",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/african-savanna-elephant"
+        },
+        {
+            "name": "African Wild Dog",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/african-wild-dog"
+        },
+        {
+            "name": "Albacore Tuna",
+            "conservation_status": "Near Threatened",
+            "website": "https://www.worldwildlife.org/species/albacore-tuna"
+        },
+        {
+            "name": "Arctic Fox",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/arctic-fox"
+        },
+        {
+            "name": "Arctic Wolf",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/arctic-wolf"
+        },
+        {
+            "name": "Asian Elephant",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/asian-elephant"
+        },
+        {
+            "name": "Beluga",
+            "conservation_status": "Near Threatened",
+            "website": "https://www.worldwildlife.org/species/beluga"
+        },
+        {
+            "name": "Bigeye Tuna",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/bigeye-tuna"
+        },
+        {
+            "name": "Black Rhino",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/black-rhino"
+        },
+        {
+            "name": "Black Spider Monkey",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/black-spider-monkey"
+        },
+        {
+            "name": "Black-footed Ferret",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/black-footed-ferret"
+        },
+        {
+            "name": "Blue Whale",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/blue-whale"
+        },
+        {
+            "name": "Bluefin Tuna",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/bluefin-tuna"
+        },
+        {
+            "name": "Bonobo",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/bonobo"
+        },
+        {
+            "name": "Bornean Elephant",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/bornean-elephant"
+        },
+        {
+            "name": "Bornean Orangutan",
+            "conservation_status": "Critically",
+            "website": "https://www.worldwildlife.org/species/bornean-orangutan"
+        },
+        {
+            "name": "Bowhead Whale",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/bowhead-whale"
+        },
+        {
+            "name": "Brown Bear",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/brown-bear"
+        },
+        {
+            "name": "Chimpanzee",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/chimpanzee"
+        },
+        {
+            "name": "Common Bottlenose Dolphin",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/common-bottlenose-dolphin"
+        },
+        {
+            "name": "Cross River Gorilla",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/cross-river-gorilla"
+        },
+        {
+            "name": "Dugong",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/dugong"
+        },
+        {
+            "name": "Eastern Lowland Gorilla",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/eastern-lowland-gorilla"
+        },
+        {
+            "name": "Fin Whale",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/fin-whale"
+        },
+        {
+            "name": "Galápagos Penguin",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/galapagos-penguin"
+        },
+        {
+            "name": "Ganges River Dolphin",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/ganges-river-dolphin"
+        },
+        {
+            "name": "Giant Panda",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/giant-panda"
+        },
+        {
+            "name": "Giant Tortoise",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/giant-tortoise"
+        },
+        {
+            "name": "Gray Whale",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/gray-whale"
+        },
+        {
+            "name": "Great White Shark",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/great-white-shark"
+        },
+        {
+            "name": "Greater One-Horned Rhino",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/greater-one-horned-rhino"
+        },
+        {
+            "name": "Greater Sage-Grouse",
+            "conservation_status": "Near Threatened",
+            "website": "https://www.worldwildlife.org/species/greater-sage-grouse"
+        },
+        {
+            "name": "Green Turtle",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/green-turtle"
+        },
+        {
+            "name": "Hawksbill Turtle",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/hawksbill-turtle"
+        },
+        {
+            "name": "Hector's Dolphin",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/hector-s-dolphin"
+        },
+        {
+            "name": "Hippopotamus",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/hippopotamus"
+        },
+        {
+            "name": "Humphead Wrasse",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/humphead-wrasse"
+        },
+        {
+            "name": "Indian Elephant",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/indian-elephant"
+        },
+        {
+            "name": "Indus River Dolphin",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/indus-river-dolphin"
+        },
+        {
+            "name": "Irrawaddy Dolphin",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/irrawaddy-dolphin"
+        },
+        {
+            "name": "Jaguar",
+            "conservation_status": "Near Threatened",
+            "website": "https://www.worldwildlife.org/species/jaguar"
+        },
+        {
+            "name": "Javan Rhino",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/javan-rhino"
+        },
+        {
+            "name": "Leatherback Turtle",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/leatherback-turtle"
+        },
+        {
+            "name": "Loggerhead Turtle",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/loggerhead-turtle"
+        },
+        {
+            "name": "Macaw",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/macaw"
+        },
+        {
+            "name": "Marine Iguana",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/marine-iguana"
+        },
+        {
+            "name": "Monarch Butterfly",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/monarch-butterfly"
+        },
+        {
+            "name": "Mountain Gorilla",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/mountain-gorilla"
+        },
+        {
+            "name": "Mountain Plover",
+            "conservation_status": "Near Threatened",
+            "website": "https://www.worldwildlife.org/species/mountain-plover"
+        },
+        {
+            "name": "Narwhal",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/narwhal"
+        },
+        {
+            "name": "North Atlantic Right Whale",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/north-atlantic-right-whale"
+        },
+        {
+            "name": "Olive Ridley Turtle",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/olive-ridley-turtle"
+        },
+        {
+            "name": "Orangutan",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/orangutan"
+        },
+        {
+            "name": "Plains Bison",
+            "conservation_status": "Near Threatened",
+            "website": "https://www.worldwildlife.org/species/plains-bison"
+        },
+        {
+            "name": "Polar Bear",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/polar-bear"
+        },
+        {
+            "name": "Pronghorn",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/pronghorn"
+        },
+        {
+            "name": "Red Panda",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/red-panda"
+        },
+        {
+            "name": "Saola",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/saola"
+        },
+        {
+            "name": "Sea Lions",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/sea-lions"
+        },
+        {
+            "name": "Sea Turtle",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/sea-turtle"
+        },
+        {
+            "name": "Sei Whale",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/sei-whale"
+        },
+        {
+            "name": "Skipjack Tuna",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/skipjack-tuna"
+        },
+        {
+            "name": "Snow Leopard",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/snow-leopard"
+        },
+        {
+            "name": "Southern rockhopper penguin",
+            "conservation_status": "Vulnerable",
+            "website": "https://www.worldwildlife.org/species/southern-rockhopper-penguin"
+        },
+        {
+            "name": "Sri Lankan Elephant",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/sri-lankan-elephant"
+        },
+        {
+            "name": "Sumatran Elephant",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/sumatran-elephant"
+        },
+        {
+            "name": "Sumatran Orangutan",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/sumatran-orangutan"
+        },
+        {
+            "name": "Sumatran Rhino",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/sumatran-rhino"
+        },
+        {
+            "name": "Sunda Tiger",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/sunda-tiger"
+        },
+        {
+            "name": "Swift Fox",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/swift-fox"
+        },
+        {
+            "name": "Tiger",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/tiger"
+        },
+        {
+            "name": "Tree Kangaroo",
+            "conservation_status": "Least Concern",
+            "website": "https://www.worldwildlife.org/species/tree-kangaroo"
+        },
+        {
+            "name": "Vaquita",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/vaquita"
+        },
+        {
+            "name": "Western Lowland Gorilla",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/western-lowland-gorilla"
+        },
+        {
+            "name": "Whale",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/whale"
+        },
+        {
+            "name": "Whale Shark",
+            "conservation_status": "Endangered",
+            "website": "https://www.worldwildlife.org/species/whale-shark"
+        },
+        {
+            "name": "White Rhino",
+            "conservation_status": "Near Threatened",
+            "website": "https://www.worldwildlife.org/species/white-rhino"
+        },
+        {
+            "name": "Yangtze Finless Porpoise",
+            "conservation_status": "Critically Endangered",
+            "website": "https://www.worldwildlife.org/species/yangtze-finless-porpoise"
+        },
+        {
+            "name": "Yellowfin Tuna",
+            "conservation_status": "Near Threatened",
+            "website": "https://www.worldwildlife.org/species/yellowfin-tuna"
+        }
+    ]
